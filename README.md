@@ -1,2 +1,2 @@
 # GatheringBot
-Twitch bot for personal use
+Pretty simple Twitch chat bot for personal use. Using pyTwitchAPI primarily.
